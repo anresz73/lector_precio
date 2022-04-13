@@ -1,0 +1,9 @@
+# Files
+
+# Folders
+.ipynb_checkpoints
+
+# Compilers
+__pycache__/
+*.py[cod]
+*$py.class
